@@ -1,0 +1,33 @@
+#arrow-up {
+	width:0px; 
+	height:0px; 
+	border-left:8px solid transparent;
+	border-right:8px solid transparent;
+	border-bottom:8px solid #9c9c9c;
+	font-size:0px;
+	line-height:0px;
+	float: left;
+	margin: 13px 5px 0 8px;
+}
+
+#top-text{
+	direction: ltr;
+	font-family: tahoma, arial, verdana, sans-serif, Lucida Sans;
+	font-size: 11px;
+	color:#9c9c9c;
+	margin-top: 10px;
+}
+#smoothScrollBlock{
+	position: fixed;
+	/*top: 924px;*/
+	left: -6px;
+	width: 5%;
+	height: 27973px;
+	background-color: #f8f8f8;
+	cursor: pointer;
+	opacity: 0.4;
+	border-right: 0px solid #ddd;
+	border-radius: 20px;
+	z-index: 1000;
+	display: none;
+}
