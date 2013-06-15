@@ -1,0 +1,14 @@
+{
+   "content_scripts": [ {
+      "js": ["jquery.js", "leprasmoothscroll.js" ],
+      "css": ["style.css"],
+      "matches": [ "http://*.leprosorium.ru/*", "http://leprosorium.ru/*" ]
+      } ],
+   "description": "Adds smooth scroll to top of the current page",
+   "icons": {
+      "48": "icon48.png"
+   },
+   "manifest_version": 2,
+   "name": "Lepra Smooth Scroll Extension",
+   "version": "1.0"
+}
