@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Lepra Smooth Scroll",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Adds smooth scroll to top of the current page",
+    "description": "The description of the application"
+  }
+}
